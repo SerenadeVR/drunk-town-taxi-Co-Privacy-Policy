@@ -1,7 +1,3 @@
-Since you are moving from Dread Drive to your new VR project (Drunk Town Taxi Co.), you can keep the same professional structure but you must update a few specific details. VR games often have different requirements regarding "Headset Sensors" and "Motion Data."
-
-Here is the updated version. You can copy and paste this directly into your privacy.html file.
-
 Privacy Policy for Drunk Town Taxi Co.
 Last updated: 17-02-2026
 
