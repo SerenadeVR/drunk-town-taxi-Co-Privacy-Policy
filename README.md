@@ -1,5 +1,5 @@
 Privacy Policy for Drunk Town Taxi Co.
-Last updated: 17-02-2026
+Last updated: 18-02-2026
 
 This Privacy Policy explains how Drunk Town Taxi Co. ("we", "our", "us") collects, uses, and protects your data.
 
